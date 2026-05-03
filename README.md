@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Caio Costalunga</h1>
 
-<!--
-**caiocostalunga/caiocostalunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Student • Building my path in development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6e7681&size=22&center=true&vCenter=true&width=500&lines=Learning+HTML%2C+CSS%2C+JavaScript+and+Python;Exploring+different+areas+in+tech" />
+</p>
+
+---
+
+## About
+
+Computer Science student at UVV  
+Based in Vila Velha, Brazil  
+
+Currently learning:
+HTML • CSS • JavaScript • Python  
+
+Still exploring which path to follow in tech  
+Focused on consistency and long-term growth  
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+---
+
+
+
+---
+
+## Activity
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=caiocostalunga&theme=github-dark&hide_border=true" 
+  />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://instagram.com/imnottcaioo">Instagram</a> •
+  <a href="mailto:costalungacaio02@gmail.com">Email</a>
+</p>
