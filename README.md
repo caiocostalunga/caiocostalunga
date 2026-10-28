@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6e7681&size=22&center=true&vCenter=true&width=500&lines=Learning+C%2C+HTML%2C+CSS%2C+JavaScript+and+Python;Exploring+different+areas+in+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6e7681&size=22&center=true&vCenter=true&width=600&lines=Learning+C%2C+HTML%2C+CSS%2C+JavaScript+and+Python;Exploring+different+areas+in+tech" />
 </p>
 
 ---
